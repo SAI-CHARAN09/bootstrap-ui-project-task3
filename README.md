@@ -72,7 +72,7 @@ mazer-react/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/mazer-react-dashboard.git
+git clone https://github.com/SAI-CHARAN09/bootstrap-ui-project-task3
 cd mazer-react-dashboard
 
 Install dependencies
