@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "visitors": 1200,
+    "sales": 350,
+    "orders": 80
+  },
+  "users": [
+    { "id": 1, "name": "John Doe", "role": "Admin" },
+    { "id": 2, "name": "Sara Smith", "role": "Editor" },
+    { "id": 3, "name": "Alex Johnson", "role": "Viewer" }
+  ]
+}
