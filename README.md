@@ -111,6 +111,8 @@ UI/UX design for dashboards
 
 🔗 Live Preview
 
+https://bootstrap-ui-project-task3.vercel.app/
+
 📌 Notes
 
 All images are stored in public/images and public/avatars.
